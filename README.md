@@ -46,7 +46,19 @@ Published page (private to the owner until shared): https://claude.ai/artifact/Q
 | Say it better | 70 | Natural or more advanced ways to say basic things, such as "I'm all ears" for "I'm listening" |
 | **Total** | **816** | |
 
+Where the cards came from:
 
+- **685 cards** from the first column of the "Expressions & Idioms" Google Sheet, after merging repeated rows.
+- **131 cards** from ten saved screenshots of idiom and phrase lists.
+
+Meanings written in the sheet were kept and cleaned up. Every other meaning and every example sentence was written for this deck.
+
+## Notes on the content
+
+- **Spelling fixes.** Obvious typos in the sheet were corrected on the card front, for example "Spell the beans" became "Spill the beans". On 183 cards the back shows "In your sheet as: …" with the original wording.
+- **Best guesses.** Five unclear entries were matched to the most likely phrase and should be checked: "For the devil" (Devil's advocate), "To be an egg" (Be a nag), "For destination" (Predestination), "Get cold" (Get cold feet) and "Talked us" (Talk down to).
+- **Left out.** Six entries could not be decoded: "Head on knees", "Brush your chest", "Song slip", "Swallow it's dry", "Wine through it" and "Own more shoes than the rest of us". Four stray fragments were also dropped.
+- **Adult language.** The sheet includes a few vulgar or sexual slang terms. They are in the deck with plain, neutral definitions.
 
 ## Adding or changing cards
 
